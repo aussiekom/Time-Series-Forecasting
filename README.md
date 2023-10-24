@@ -6,3 +6,6 @@ Time series are widely used for non-stationary data, like economic, weather, sto
 
 The superstore sales data is used, and can be downloaded here:
 https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
+
+Quick table to chose what is the better technique for forecasting your data:
+<img width="736" alt="picture" src="https://github.com/aussiekom/Time-Series-Forecasting/assets/102028836/626b0fcb-ccdb-43f4-b70f-07b9acae8337">
