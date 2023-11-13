@@ -3,7 +3,7 @@
 Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data. Time series forecasting is the use of a model to predict future values based on previously observed values.
 
 Time series are widely used for non-stationary data, like economic, weather, stock price, and retail sales in this post. In this repository contains different methods for forecasting time series, inclusing:
-* basic techniques (Naive method, simple average, simple moding average)
+* basic techniques (Naive method, simple average, simple moding average) 
 * exponential smoothing techniques (Simple exponential smoothing, Holt's method, Holt Winter's method)
 * auto regressive methods (ARIMA, SARIMA)
 * FB Prophet
